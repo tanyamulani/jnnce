@@ -1,2 +1,4 @@
 # jnnce
-my new git repository
+my new git repository.
+<br>
+Author-Tanya Mulani
